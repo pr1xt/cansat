@@ -1,0 +1,1 @@
+This repository contains the code, design files, and documentation for our CanSat project. We participated in the CanSat competition, where we developed a miniaturized satellite that performs a scientific experiment during descent. The project involves various subsystems including telemetry, data acquisition, deployment, and recovery systems.
